@@ -1,4 +1,4 @@
-#análise crítica textual sobre a utilização do Scrum na Intel
+# análise crítica textual sobre a utilização do Scrum na Intel
 
 Por que a abordagem ágil foi utilizada e não a tradicional para o projeto?
 
