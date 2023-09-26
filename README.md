@@ -1,4 +1,4 @@
-# análise crítica textual sobre a utilização do Scrum na Intel
+# Análise crítica textual sobre a utilização do Scrum na Intel
 
 Por que a abordagem ágil foi utilizada e não a tradicional para o projeto?
 
@@ -33,6 +33,10 @@ Flexibilidade para mudanças: A abordagem ágil, por sua natureza adaptativa, pe
 Foco no cliente: O Scrum coloca o cliente no centro do processo de desenvolvimento, garantindo que suas necessidades e feedback sejam incorporados. Isso pode resultar em produtos que atendem melhor às demandas dos clientes, tornando-os mais inovadores.
 
 Em resumo, a escolha da abordagem ágil, especificamente o Scrum, em um projeto baseado na tecnologia Intel, pode ser motivada pela necessidade de se adaptar rapidamente às mudanças, obter feedback contínuo, promover a colaboração e entregar valor de forma mais eficaz. Isso, por sua vez, pode aumentar as chances de alcançar um resultado final verdadeiramente inovador, o que é crucial para uma empresa de tecnologia líder como a Intel.
+
+# Parte 2 Desafio Scrum Master Dio
+
+Link miro: https://miro.com/app/board/uXjVMhalHlI=/?share_link_id=825270331483
 
 
 
